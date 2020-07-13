@@ -1,16 +1,15 @@
-####This repository contains programs done from Udemy Python Masterclass
+###### This repository contains programs done from Udemy Python Masterclass
 https://www.udemy.com/course/python-the-complete-python-developer-course/ 
-Outcomes of the course 
+#### Outcomes of the course 
 •	Have a fundamental understanding of the Python programming language. 
 •	Have the skills and understanding of Python to confidently apply for Python programming jobs. 
 •	Acquire the pre-requisite Python skills to move into specific branches - Machine Learning, Data Science, etc..
 •	Add the Python Object-Oriented Programming (OOP) skills to your résumé. Understand how to create your own Python programs. 
 •	Learn Python from experienced professional software developers. Understand both Python 2 and Python 3.
 
-Course content
+#### Course content
 21 sections • 381 lectures • 55h 24m total length
 
-Course Introduction
 •	Introduction To The Course
 •	Install and setup
 •	Stepping in the world of Python
@@ -21,13 +20,13 @@ Course Introduction
 •	Modules and functions in  Python
 •	Object oriented Python
 
-Requirements
+#### Requirements
 •	You’ve either already got it or it’s FREE. Here’s the checklist:
 •	A computer - Windows, Mac, and Linux are all supported. Setup and installation instructions are included for each platform.
 •	Your enthusiasm to learn this go-to programming language. It’s a valuable lifetime skill which you can’t un-learn!
 •	Everything else needed to start programming in Python is already included in the course.
 
-Description
+#### Description
 Whether you want to:
 - build the skills you need to get your first Python programming job
 - move to a more senior software developer position
