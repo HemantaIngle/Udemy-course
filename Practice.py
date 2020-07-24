@@ -345,7 +345,7 @@ print("The computer guessed it {} time".format(guess_time)) # print that time
 # figure out the number in my mind
 # now we got the correct number , lets see at what chance , so at the 8th chance.'''
 
-number = 5
+'''number = 5
 multiplier = 8
 answer = 0
 
@@ -354,7 +354,12 @@ while multiplier != 0:
     answer +=5
     multiplier -= 1
     print(answer)
-print(answer)
+print(answer)'''
+
+for x in range(30):
+    if x % 3 == 0 or x % 5 == 0:
+        continue
+    print(x)
 
 
 
