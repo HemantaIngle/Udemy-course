@@ -1,0 +1,10 @@
+'''# direction game using while loop and using break and case fold
+dir=["East","West","North","South"] # initialize a list of directions
+choosen_dir="" # choose an empty string to fill in with the prompted direction
+while choosen_dir not in dir: # the loop will run until it finds the item from the list
+    choosen_dir=str(input("Please input the direction"))# as for the item in the list here
+
+    if choosen_dir.casefold()=="quit":# if the user chooses to quit and types quit
+        print("Quitting the game now")  # this will be printed and the
+        break # while loop will break
+# .casefold converts a string into a upper or lower case , do even if the directions dont exactly match the cases it will still be valid'''
